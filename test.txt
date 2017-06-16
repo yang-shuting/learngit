@@ -1,2 +1,4 @@
 This is a git test file.
 I'm a humor programmer.
+
+git push by ~/learngit.
