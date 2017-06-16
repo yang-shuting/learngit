@@ -1,2 +1,4 @@
 This is a git test file.
 use ff.
+Test fast forward.
+I'm understand.
