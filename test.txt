@@ -1,6 +1,7 @@
 This is a git test file.
 I'm a humor programmer.
 
+<<<<<<< HEAD
 git push by ~/learngit.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -11,3 +12,6 @@ git merge with Fast forward model.
 
 
 This branch dev is demo for test local.
+=======
+demo push.
+>>>>>>> 7b2eada02911a7fdefa6fcfc60ff74efd2101edb
